@@ -25,7 +25,7 @@ const app = express();
 
 // Where:
 //
-// DATATIME is a valid global date and time string
+// DATETIME is a valid global date and time string
 // HH is current hour
 // MM is current minutes
 // SS is current seconds
