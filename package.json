@@ -2,13 +2,17 @@
   "name": "week-6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "package.json",
   "scripts": {
     "test": "jest",
     "test:d1:easy:helloWorld": "jest test/d1/1-easy/hello-world --verbose --silent --runInBand",
     "test:d1:medium:shouty": "jest test/d1/2-medium/shouty --verbose --silent --runInBand",
     "test:d1:medium:webServer": "jest test/d1/2-medium/web-server --verbose --silent --runInBand",
-    "test:d1:hard:appServer": "jest test/d1/3-hard/app-server --verbose --silent --runInBand"
+    "test:d1:hard:appServer": "jest test/d1/3-hard/app-server --verbose --silent --runInBand",
+    "test:d2:easy:library": "jest test/d2/1-easy/library --verbose --silent --runInBand",
+    "test:d2:medium:getPost": "jest test/d2/2-medium/get-post --verbose --silent --runInBand",
+    "test:d2:medium:login": "jest test/d2/2-medium/login --verbose --silent --runInBand",
+    "test:d2:hard:contacts": "jest test/d2/3-hard/contacts --verbose --silent --runInBand"
   },
   "keywords": [],
   "author": "",
