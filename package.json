@@ -12,7 +12,10 @@
     "test:d2:easy:library": "jest test/d2/1-easy/library --verbose --silent --runInBand",
     "test:d2:medium:getPost": "jest test/d2/2-medium/get-post --verbose --silent --runInBand",
     "test:d2:medium:login": "jest test/d2/2-medium/login --verbose --silent --runInBand",
-    "test:d2:hard:contacts": "jest test/d2/3-hard/contacts --verbose --silent --runInBand"
+    "test:d2:hard:contacts": "jest test/d2/3-hard/contacts --verbose --silent --runInBand",
+    "test:d3:easy:library": "jest test/d3/1-easy/library --verbose --silent --runInBand",
+    "test:d3:medium:login": "jest test/d3/2-medium/login --verbose --silent --runInBand",
+    "test:d3:hard:blog": "jest test/d3/3-hard/blog --verbose --silent --runInBand"
   },
   "keywords": [],
   "author": "",
